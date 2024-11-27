@@ -2,6 +2,9 @@
 
 A powerful data analysis tool that leverages AI and machine learning to provide comprehensive insights into your datasets. This application combines the power of scikit-learn, pandas, and Streamlit to offer an intuitive interface for data analysis, visualization, and machine learning tasks.
 
+![Web UI](https://i.ibb.co/dKtg0W8/Screenshot-2024-11-27-163725.png)
+
+
 ## Getting Started
 
 ### Clone the Repository
