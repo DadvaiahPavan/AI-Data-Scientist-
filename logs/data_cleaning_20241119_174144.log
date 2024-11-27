@@ -1,0 +1,8 @@
+2024-11-19 17:41:51,845 - INFO - Successfully loaded movies.csv
+2024-11-19 17:41:51,888 - INFO - Data analysis completed
+2024-11-19 17:41:57,448 - INFO - Successfully loaded movies.csv
+2024-11-19 17:41:57,486 - INFO - Data analysis completed
+2024-11-19 17:41:59,805 - INFO - Successfully loaded movies.csv
+2024-11-19 17:41:59,830 - INFO - Data analysis completed
+2024-11-19 17:41:59,870 - INFO - Removed 431 duplicate rows
+2024-11-19 17:41:59,875 - ERROR - Error during data cleaning: 2

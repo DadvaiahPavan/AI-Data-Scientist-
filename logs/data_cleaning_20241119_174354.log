@@ -1,0 +1,36 @@
+2024-11-19 17:43:58,241 - INFO - Successfully loaded movies.csv
+2024-11-19 17:43:58,282 - INFO - Data analysis completed
+2024-11-19 17:44:03,533 - INFO - Successfully loaded movies.csv
+2024-11-19 17:44:03,561 - INFO - Data analysis completed
+2024-11-19 17:44:04,979 - INFO - Successfully loaded movies.csv
+2024-11-19 17:44:05,010 - INFO - Data analysis completed
+2024-11-19 17:44:06,059 - INFO - Successfully loaded movies.csv
+2024-11-19 17:44:06,082 - INFO - Data analysis completed
+2024-11-19 17:44:06,117 - INFO - Removed 431 duplicate rows
+2024-11-19 17:44:06,123 - ERROR - Error during data cleaning: 2
+2024-11-19 17:44:06,292 - INFO - Successfully loaded movies.csv
+2024-11-19 17:44:06,317 - INFO - Data analysis completed
+2024-11-19 17:44:06,349 - INFO - Removed 431 duplicate rows
+2024-11-19 17:44:06,353 - ERROR - Error during data cleaning: 2
+2024-11-19 17:45:01,210 - INFO - Successfully loaded movies.csv
+2024-11-19 17:45:01,232 - INFO - Data analysis completed
+2024-11-19 17:45:04,494 - INFO - Successfully loaded movies.csv
+2024-11-19 17:45:04,520 - INFO - Data analysis completed
+2024-11-19 17:45:04,558 - INFO - Removed 431 duplicate rows
+2024-11-19 17:45:04,581 - INFO - Handled missing values
+2024-11-19 17:45:12,314 - INFO - Successfully loaded movies.csv
+2024-11-19 17:45:12,342 - INFO - Data analysis completed
+2024-11-19 17:45:14,485 - INFO - Successfully loaded movies.csv
+2024-11-19 17:45:14,511 - INFO - Data analysis completed
+2024-11-19 17:45:14,543 - INFO - Removed 431 duplicate rows
+2024-11-19 17:45:14,563 - INFO - Handled missing values
+2024-11-19 17:45:14,566 - INFO - Normalized numerical data
+2024-11-19 17:45:19,112 - INFO - Successfully loaded movies.csv
+2024-11-19 17:45:19,149 - INFO - Data analysis completed
+2024-11-19 17:45:20,796 - INFO - Successfully loaded movies.csv
+2024-11-19 17:45:20,819 - INFO - Data analysis completed
+2024-11-19 17:45:20,852 - INFO - Removed 431 duplicate rows
+2024-11-19 17:45:20,873 - INFO - Handled missing values
+2024-11-19 17:45:20,876 - INFO - Normalized numerical data
+2024-11-19 17:46:51,783 - INFO - Successfully loaded movies.csv
+2024-11-19 17:46:51,835 - INFO - Data analysis completed

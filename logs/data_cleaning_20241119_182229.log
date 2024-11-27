@@ -1,0 +1,142 @@
+2024-11-19 18:22:33,891 - INFO - Successfully loaded movies.csv
+2024-11-19 18:22:33,954 - INFO - Data analysis completed
+2024-11-19 18:22:46,595 - INFO - Successfully loaded movies.csv
+2024-11-19 18:22:46,630 - INFO - Data analysis completed
+2024-11-19 18:22:47,699 - INFO - Successfully loaded movies.csv
+2024-11-19 18:22:47,720 - INFO - Data analysis completed
+2024-11-19 18:22:47,752 - INFO - Removed 431 duplicate rows
+2024-11-19 18:23:03,681 - INFO - Successfully loaded movies.csv
+2024-11-19 18:23:03,722 - INFO - Data analysis completed
+2024-11-19 18:23:25,933 - INFO - Successfully loaded movies.csv
+2024-11-19 18:23:25,971 - INFO - Data analysis completed
+2024-11-19 18:23:26,702 - INFO - Successfully loaded movies.csv
+2024-11-19 18:23:26,725 - INFO - Data analysis completed
+2024-11-19 18:23:26,759 - INFO - Removed 431 duplicate rows
+2024-11-19 18:23:34,698 - INFO - Successfully loaded movies.csv
+2024-11-19 18:23:34,727 - INFO - Data analysis completed
+2024-11-19 18:23:36,671 - INFO - Successfully loaded movies.csv
+2024-11-19 18:23:36,703 - INFO - Data analysis completed
+2024-11-19 18:23:37,984 - INFO - Successfully loaded movies.csv
+2024-11-19 18:23:38,009 - INFO - Data analysis completed
+2024-11-19 18:23:39,107 - INFO - Successfully loaded movies.csv
+2024-11-19 18:23:39,133 - INFO - Data analysis completed
+2024-11-19 18:23:39,164 - INFO - Removed 431 duplicate rows
+2024-11-19 18:23:39,185 - INFO - Handled missing values
+2024-11-19 18:23:39,188 - INFO - Normalized numerical data
+2024-11-19 18:29:16,083 - INFO - Successfully loaded movies.csv
+2024-11-19 18:29:16,119 - INFO - Data analysis completed
+2024-11-19 18:30:57,135 - INFO - Successfully loaded movies.csv
+2024-11-19 18:30:57,165 - INFO - Data analysis completed
+2024-11-19 18:31:06,542 - INFO - Successfully loaded movies.csv
+2024-11-19 18:31:06,570 - INFO - Data analysis completed
+2024-11-19 18:31:14,966 - INFO - Successfully loaded movies.csv
+2024-11-19 18:31:15,007 - INFO - Data analysis completed
+2024-11-19 18:31:15,244 - INFO - Successfully loaded movies.csv
+2024-11-19 18:31:15,277 - INFO - Data analysis completed
+2024-11-19 18:31:16,694 - INFO - Successfully loaded movies.csv
+2024-11-19 18:31:16,731 - INFO - Data analysis completed
+2024-11-19 18:31:19,849 - INFO - Successfully loaded movies.csv
+2024-11-19 18:31:19,878 - INFO - Data analysis completed
+2024-11-19 18:31:22,032 - INFO - Successfully loaded movies.csv
+2024-11-19 18:31:22,064 - INFO - Data analysis completed
+2024-11-19 18:31:22,103 - INFO - Removed 431 duplicate rows
+2024-11-19 18:31:22,124 - INFO - Handled missing values
+2024-11-19 18:31:22,126 - INFO - Normalized numerical data
+2024-11-19 18:31:44,778 - INFO - Successfully loaded movies.csv
+2024-11-19 18:31:44,821 - INFO - Data analysis completed
+2024-11-19 18:31:55,282 - INFO - Successfully loaded movies.csv
+2024-11-19 18:31:55,307 - INFO - Data analysis completed
+2024-11-19 18:31:59,869 - INFO - Successfully loaded movies.csv
+2024-11-19 18:31:59,902 - INFO - Data analysis completed
+2024-11-19 18:31:59,944 - INFO - Removed 431 duplicate rows
+2024-11-19 18:31:59,966 - INFO - Handled missing values
+2024-11-19 18:31:59,968 - INFO - Normalized numerical data
+2024-11-19 18:32:16,634 - INFO - Successfully loaded movies.csv
+2024-11-19 18:32:16,761 - INFO - Data analysis completed
+2024-11-19 18:32:29,290 - INFO - Successfully loaded cleaned_data (1).csv
+2024-11-19 18:32:29,328 - INFO - Data analysis completed
+2024-11-19 18:34:37,392 - INFO - Successfully loaded movies.csv
+2024-11-19 18:34:37,426 - INFO - Data analysis completed
+2024-11-19 18:34:42,600 - INFO - Successfully loaded movies.csv
+2024-11-19 18:34:42,636 - INFO - Data analysis completed
+2024-11-19 18:34:45,169 - INFO - Successfully loaded movies.csv
+2024-11-19 18:34:45,198 - INFO - Data analysis completed
+2024-11-19 18:34:47,306 - INFO - Successfully loaded movies.csv
+2024-11-19 18:34:47,343 - INFO - Data analysis completed
+2024-11-19 18:34:47,383 - INFO - Removed 431 duplicate rows
+2024-11-19 18:34:47,404 - INFO - Handled missing values
+2024-11-19 18:34:47,406 - INFO - Normalized numerical data
+2024-11-19 18:35:14,987 - INFO - Successfully loaded movies.csv
+2024-11-19 18:35:15,027 - INFO - Data analysis completed
+2024-11-19 18:35:17,363 - INFO - Successfully loaded movies.csv
+2024-11-19 18:35:17,399 - INFO - Data analysis completed
+2024-11-19 18:35:17,439 - INFO - Removed 431 duplicate rows
+2024-11-19 18:35:17,459 - INFO - Handled missing values
+2024-11-19 18:35:17,461 - INFO - Normalized numerical data
+2024-11-19 18:35:24,235 - INFO - Successfully loaded movies.csv
+2024-11-19 18:35:24,270 - INFO - Data analysis completed
+2024-11-19 18:35:30,042 - INFO - Successfully loaded movies.csv
+2024-11-19 18:35:30,072 - INFO - Data analysis completed
+2024-11-19 18:35:31,372 - INFO - Successfully loaded movies.csv
+2024-11-19 18:35:31,401 - INFO - Data analysis completed
+2024-11-19 18:35:31,449 - INFO - Removed 431 duplicate rows
+2024-11-19 18:35:31,473 - INFO - Handled missing values
+2024-11-19 18:37:15,843 - INFO - Successfully loaded movies.csv
+2024-11-19 18:37:15,883 - INFO - Data analysis completed
+2024-11-19 18:37:17,611 - INFO - Successfully loaded movies.csv
+2024-11-19 18:37:17,635 - INFO - Data analysis completed
+2024-11-19 18:37:17,670 - INFO - Removed 431 duplicate rows
+2024-11-19 18:37:17,691 - INFO - Handled missing values
+2024-11-19 18:37:28,446 - INFO - Successfully loaded movies.csv
+2024-11-19 18:37:28,487 - INFO - Data analysis completed
+2024-11-19 18:37:30,329 - INFO - Successfully loaded movies.csv
+2024-11-19 18:37:30,362 - INFO - Data analysis completed
+2024-11-19 18:37:30,401 - INFO - Removed 431 duplicate rows
+2024-11-19 18:37:30,424 - INFO - Handled missing values
+2024-11-19 18:38:51,851 - INFO - Successfully loaded movies.csv
+2024-11-19 18:38:51,882 - INFO - Data analysis completed
+2024-11-19 18:38:54,207 - INFO - Successfully loaded movies.csv
+2024-11-19 18:38:54,235 - INFO - Data analysis completed
+2024-11-19 18:38:54,276 - INFO - Removed 431 duplicate rows
+2024-11-19 18:38:54,296 - INFO - Handled missing values
+2024-11-19 18:39:08,136 - INFO - Successfully loaded movies.csv
+2024-11-19 18:39:08,172 - INFO - Data analysis completed
+2024-11-19 18:39:10,244 - INFO - Successfully loaded movies.csv
+2024-11-19 18:39:10,276 - INFO - Data analysis completed
+2024-11-19 18:39:10,313 - INFO - Removed 431 duplicate rows
+2024-11-19 18:39:10,336 - INFO - Handled missing values
+2024-11-19 18:39:25,850 - INFO - Successfully loaded movies.csv
+2024-11-19 18:39:25,887 - INFO - Data analysis completed
+2024-11-19 18:39:27,634 - INFO - Successfully loaded movies.csv
+2024-11-19 18:39:27,668 - INFO - Data analysis completed
+2024-11-19 18:39:27,706 - INFO - Removed 431 duplicate rows
+2024-11-19 18:39:27,727 - INFO - Handled missing values
+2024-11-19 18:39:33,747 - INFO - Successfully loaded movies.csv
+2024-11-19 18:39:33,785 - INFO - Data analysis completed
+2024-11-19 18:39:35,174 - INFO - Successfully loaded movies.csv
+2024-11-19 18:39:35,198 - INFO - Data analysis completed
+2024-11-19 18:39:35,232 - INFO - Removed 431 duplicate rows
+2024-11-19 18:39:35,253 - INFO - Handled missing values
+2024-11-19 18:39:59,312 - INFO - Successfully loaded match_info_data.csv
+2024-11-19 18:39:59,346 - INFO - Data analysis completed
+2024-11-19 18:40:10,275 - INFO - Successfully loaded studentDetails.xlsx
+2024-11-19 18:40:10,283 - INFO - Data analysis completed
+2024-11-19 18:43:17,129 - INFO - Successfully loaded Demo_xml.xml
+2024-11-19 18:43:17,138 - INFO - Data analysis completed
+2024-11-19 18:45:55,870 - INFO - Successfully loaded iris.json
+2024-11-19 18:45:55,879 - INFO - Data analysis completed
+2024-11-19 18:46:01,803 - INFO - Successfully loaded iris.json
+2024-11-19 18:46:01,813 - INFO - Data analysis completed
+2024-11-19 18:46:03,314 - INFO - Successfully loaded iris.json
+2024-11-19 18:46:03,323 - INFO - Data analysis completed
+2024-11-19 18:46:03,332 - INFO - Removed 1 duplicate rows
+2024-11-19 18:46:03,333 - INFO - Handled missing values
+2024-11-19 18:46:09,752 - INFO - Successfully loaded iris.json
+2024-11-19 18:46:09,765 - INFO - Data analysis completed
+2024-11-19 18:46:19,230 - INFO - Successfully loaded iris.json
+2024-11-19 18:46:19,240 - INFO - Data analysis completed
+2024-11-19 18:46:20,395 - INFO - Successfully loaded iris.json
+2024-11-19 18:46:20,405 - INFO - Data analysis completed
+2024-11-19 18:46:20,408 - INFO - Removed 1 duplicate rows
+2024-11-19 18:46:20,409 - INFO - Handled missing values
+2024-11-19 18:46:57,021 - ERROR - Error loading file: no element found: line 5056, column 2

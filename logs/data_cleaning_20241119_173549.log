@@ -1,0 +1,14 @@
+2024-11-19 17:35:56,830 - INFO - Successfully loaded Orders.csv
+2024-11-19 17:35:56,867 - INFO - Data analysis completed
+2024-11-19 17:36:03,656 - INFO - Successfully loaded Orders.csv
+2024-11-19 17:36:03,661 - INFO - Data analysis completed
+2024-11-19 17:36:06,563 - INFO - Successfully loaded Orders.csv
+2024-11-19 17:36:06,567 - INFO - Data analysis completed
+2024-11-19 17:36:06,573 - INFO - Removed 0 duplicate rows
+2024-11-19 17:36:06,574 - INFO - Handled missing values
+2024-11-19 17:39:18,176 - INFO - Successfully loaded movies.csv
+2024-11-19 17:39:18,226 - INFO - Data analysis completed
+2024-11-19 17:39:33,553 - INFO - Successfully loaded movies.csv
+2024-11-19 17:39:33,584 - INFO - Data analysis completed
+2024-11-19 17:39:33,627 - INFO - Removed 431 duplicate rows
+2024-11-19 17:39:33,635 - ERROR - Error during data cleaning: 2

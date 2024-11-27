@@ -1,0 +1,65 @@
+2024-11-19 20:41:40,907 - INFO - Successfully loaded movies.csv
+2024-11-19 20:41:40,947 - INFO - Data analysis completed
+2024-11-19 20:41:54,342 - INFO - Successfully loaded movies.csv
+2024-11-19 20:41:54,364 - INFO - Data analysis completed
+2024-11-19 20:41:55,476 - INFO - Successfully loaded movies.csv
+2024-11-19 20:41:55,495 - INFO - Data analysis completed
+2024-11-19 20:41:55,525 - INFO - Removed 431 duplicate rows
+2024-11-19 20:41:55,545 - INFO - Handled missing values
+2024-11-19 20:41:59,834 - INFO - Successfully loaded movies.csv
+2024-11-19 20:41:59,856 - INFO - Data analysis completed
+2024-11-19 20:43:01,527 - INFO - Successfully loaded movies.csv
+2024-11-19 20:43:01,546 - INFO - Data analysis completed
+2024-11-19 20:43:05,166 - INFO - Successfully loaded movies.csv
+2024-11-19 20:43:05,190 - INFO - Data analysis completed
+2024-11-19 20:43:13,602 - INFO - Successfully loaded movies.csv
+2024-11-19 20:43:13,637 - INFO - Data analysis completed
+2024-11-19 20:43:29,152 - INFO - Successfully loaded movies.csv
+2024-11-19 20:43:29,180 - INFO - Data analysis completed
+2024-11-19 20:43:33,608 - INFO - Successfully loaded movies.csv
+2024-11-19 20:43:33,631 - INFO - Data analysis completed
+2024-11-19 20:43:34,296 - INFO - Successfully loaded movies.csv
+2024-11-19 20:43:34,317 - INFO - Data analysis completed
+2024-11-19 20:44:05,931 - INFO - Successfully loaded movies.csv
+2024-11-19 20:44:05,970 - INFO - Data analysis completed
+2024-11-19 20:44:13,031 - INFO - Successfully loaded movies.csv
+2024-11-19 20:44:13,059 - INFO - Data analysis completed
+2024-11-19 20:44:20,308 - INFO - Successfully loaded movies.csv
+2024-11-19 20:44:20,334 - INFO - Data analysis completed
+2024-11-19 20:44:28,076 - INFO - Successfully loaded movies.csv
+2024-11-19 20:44:28,101 - INFO - Data analysis completed
+2024-11-19 20:44:34,855 - INFO - Successfully loaded movies.csv
+2024-11-19 20:44:34,879 - INFO - Data analysis completed
+2024-11-19 20:44:38,086 - INFO - Successfully loaded movies.csv
+2024-11-19 20:44:38,111 - INFO - Data analysis completed
+2024-11-19 20:46:20,950 - INFO - Successfully loaded movies.csv
+2024-11-19 20:46:20,975 - INFO - Data analysis completed
+2024-11-19 20:46:33,081 - INFO - Successfully loaded movies.csv
+2024-11-19 20:46:33,106 - INFO - Data analysis completed
+2024-11-19 20:48:36,870 - INFO - Successfully loaded movies.csv
+2024-11-19 20:48:55,029 - INFO - Successfully loaded movies.csv
+2024-11-19 20:48:56,702 - INFO - Successfully loaded movies.csv
+2024-11-19 20:49:00,985 - INFO - Successfully loaded movies.csv
+2024-11-19 20:49:01,008 - INFO - Removed 431 duplicate rows
+2024-11-19 20:49:01,015 - ERROR - Error during data cleaning: 'numerical_imputation'
+2024-11-19 20:57:19,265 - ERROR - Predictor training error: could not convert string to float: 'The Unsound'
+2024-11-19 21:07:39,734 - ERROR - Predictor training error: The least populated class in y has only 1 member, which is too few. The minimum number of groups for any class cannot be less than 2.
+2024-11-19 21:07:54,696 - ERROR - Predictor training error: The least populated class in y has only 1 member, which is too few. The minimum number of groups for any class cannot be less than 2.
+2024-11-19 21:08:43,080 - ERROR - Predictor training error: The least populated class in y has only 1 member, which is too few. The minimum number of groups for any class cannot be less than 2.
+2024-11-19 21:34:05,179 - ERROR - Predictor training error: The least populated class in y has only 1 member, which is too few. The minimum number of groups for any class cannot be less than 2.
+2024-11-19 21:34:14,883 - ERROR - Application error: 'accuracy'
+2024-11-19 21:36:18,261 - ERROR - Predictor training error: The least populated class in y has only 1 member, which is too few. The minimum number of groups for any class cannot be less than 2.
+2024-11-19 21:36:28,802 - ERROR - Application error: 'dict' object has no attribute 'head'
+2024-11-19 21:40:31,939 - ERROR - Predictor training error: The least populated class in y has only 1 member, which is too few. The minimum number of groups for any class cannot be less than 2.
+2024-11-19 21:42:14,745 - ERROR - Predictor training error: The least populated class in y has only 1 member, which is too few. The minimum number of groups for any class cannot be less than 2.
+2024-11-19 21:42:43,792 - ERROR - Predictor training error: The least populated class in y has only 1 member, which is too few. The minimum number of groups for any class cannot be less than 2.
+2024-11-19 21:44:00,057 - ERROR - Predictor training error: name 'mean_absolute_error' is not defined
+2024-11-19 21:46:00,490 - ERROR - File loading error: unhashable type: 'dict'
+2024-11-19 21:46:08,464 - ERROR - XML processing error: no element found: line 5055, column 2
+2024-11-19 21:46:08,466 - ERROR - File loading error: unhashable type: 'dict'
+2024-11-19 21:47:21,294 - ERROR - XML parsing error: mismatched tag: line 75, column 10
+2024-11-19 21:47:21,294 - ERROR - File loading error: 'NoneType' object has no attribute 'copy'
+2024-11-19 21:47:27,493 - ERROR - XML parsing error: no element found: line 5055, column 2
+2024-11-19 21:47:27,493 - ERROR - File loading error: 'NoneType' object has no attribute 'copy'
+2024-11-19 21:48:32,155 - ERROR - XML parsing error: mismatched tag: line 1, column 3006
+2024-11-19 21:48:38,765 - ERROR - XML parsing error: no element found: line 1, column 97702

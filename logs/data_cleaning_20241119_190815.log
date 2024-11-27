@@ -1,0 +1,37 @@
+2024-11-19 19:08:18,656 - ERROR - Error loading file: no element found: line 5056, column 2
+2024-11-19 19:10:20,064 - ERROR - Error parsing XML with utf-8 encoding: no element found: line 5056, column 2
+2024-11-19 19:10:20,081 - ERROR - Error parsing XML with iso-8859-1 encoding: no element found: line 5056, column 2
+2024-11-19 19:10:20,103 - ERROR - Error parsing XML with cp1252 encoding: no element found: line 5056, column 2
+2024-11-19 19:10:20,103 - ERROR - Error parsing XML file: Failed to parse XML with any encoding
+2024-11-19 19:10:20,103 - ERROR - Error loading file: Failed to parse XML: Failed to parse XML with any encoding
+2024-11-19 19:11:11,663 - ERROR - Error parsing XML with utf-8 encoding: no element found: line 5056, column 2
+2024-11-19 19:11:11,663 - ERROR - Failed to decode with utf-16: 'utf-16-le' codec can't decode byte 0x20 in position 123684: truncated data
+2024-11-19 19:11:11,682 - ERROR - Error parsing XML with iso-8859-1 encoding: no element found: line 5056, column 2
+2024-11-19 19:11:11,708 - ERROR - Error parsing XML with cp1252 encoding: no element found: line 5056, column 2
+2024-11-19 19:11:11,710 - ERROR - Error parsing XML file: Failed to parse XML with any encoding
+2024-11-19 19:11:11,711 - ERROR - Error loading file: Failed to parse XML: Failed to parse XML with any encoding
+2024-11-19 19:12:18,710 - WARNING - Warning: Error in chunk 1: XML declaration not well-formed: line 1, column 36
+2024-11-19 19:12:18,710 - WARNING - Warning: Error in chunk 2: XML declaration not well-formed: line 1, column 36
+2024-11-19 19:12:18,711 - WARNING - Warning: Error in chunk 3: XML declaration not well-formed: line 1, column 36
+2024-11-19 19:12:18,711 - WARNING - Warning: Error in chunk 4: XML declaration not well-formed: line 1, column 36
+2024-11-19 19:12:18,711 - WARNING - Warning: Error in chunk 5: XML declaration not well-formed: line 1, column 36
+2024-11-19 19:12:18,712 - WARNING - Warning: Error in chunk 6: XML declaration not well-formed: line 1, column 36
+2024-11-19 19:12:18,712 - ERROR - Failed to decode with utf-16: 'utf-16-le' codec can't decode byte 0x20 in position 123684: truncated data
+2024-11-19 19:12:18,716 - WARNING - Warning: Error in chunk 1: XML declaration not well-formed: line 1, column 36
+2024-11-19 19:12:18,716 - WARNING - Warning: Error in chunk 2: XML declaration not well-formed: line 1, column 36
+2024-11-19 19:12:18,717 - WARNING - Warning: Error in chunk 3: XML declaration not well-formed: line 1, column 36
+2024-11-19 19:12:18,717 - WARNING - Warning: Error in chunk 4: XML declaration not well-formed: line 1, column 36
+2024-11-19 19:12:18,717 - WARNING - Warning: Error in chunk 5: XML declaration not well-formed: line 1, column 36
+2024-11-19 19:12:18,719 - WARNING - Warning: Error in chunk 6: XML declaration not well-formed: line 1, column 36
+2024-11-19 19:12:18,722 - WARNING - Warning: Error in chunk 1: XML declaration not well-formed: line 1, column 36
+2024-11-19 19:12:18,722 - WARNING - Warning: Error in chunk 2: XML declaration not well-formed: line 1, column 36
+2024-11-19 19:12:18,723 - WARNING - Warning: Error in chunk 3: XML declaration not well-formed: line 1, column 36
+2024-11-19 19:12:18,723 - WARNING - Warning: Error in chunk 4: XML declaration not well-formed: line 1, column 36
+2024-11-19 19:12:18,724 - WARNING - Warning: Error in chunk 5: XML declaration not well-formed: line 1, column 36
+2024-11-19 19:12:18,724 - WARNING - Warning: Error in chunk 6: XML declaration not well-formed: line 1, column 36
+2024-11-19 19:12:18,724 - ERROR - Error parsing XML file: Failed to parse XML with any encoding
+2024-11-19 19:12:18,725 - ERROR - Error loading file: Failed to parse XML: Failed to parse XML with any encoding
+2024-11-19 19:13:16,336 - ERROR - Error parsing XML file: Failed to parse XML with any encoding
+2024-11-19 19:13:16,336 - ERROR - Error loading file: Failed to parse XML: Failed to parse XML with any encoding
+2024-11-19 19:14:17,032 - INFO - Successfully loaded 120-KB-XML-File.xml
+2024-11-19 19:14:17,063 - INFO - Data analysis completed

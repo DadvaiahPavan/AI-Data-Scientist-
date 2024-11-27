@@ -1,0 +1,29 @@
+2024-11-19 22:01:40,736 - ERROR - Analysis error: 'department'
+2024-11-19 22:04:22,793 - ERROR - Application error: 'total_rows'
+2024-11-19 22:08:03,296 - ERROR - Application error: 'total_rows'
+2024-11-19 22:08:59,658 - ERROR - Application error: 'total_rows'
+2024-11-19 22:09:58,102 - ERROR - File loading error: no element found: line 5056, column 2
+2024-11-19 22:10:03,363 - ERROR - Application error: object of type 'numpy.int64' has no len()
+2024-11-19 22:11:02,930 - ERROR - Application error: object of type 'numpy.int64' has no len()
+2024-11-19 22:11:12,406 - ERROR - Application error: object of type 'numpy.int64' has no len()
+2024-11-19 22:11:22,444 - ERROR - Application error: object of type 'numpy.int64' has no len()
+2024-11-19 22:12:57,745 - ERROR - Application error: object of type 'numpy.int64' has no len()
+2024-11-19 22:14:24,043 - ERROR - Application error: object of type 'numpy.int64' has no len()
+2024-11-19 22:17:14,763 - ERROR - Application error: object of type 'numpy.int64' has no len()
+2024-11-19 22:18:24,620 - ERROR - Application error: object of type 'numpy.int64' has no len()
+2024-11-19 22:18:30,337 - ERROR - Application error: object of type 'numpy.int64' has no len()
+2024-11-19 22:20:34,061 - ERROR - Application error: object of type 'numpy.int64' has no len()
+2024-11-19 22:22:27,444 - ERROR - Application error: object of type 'int' has no len()
+2024-11-19 22:26:30,952 - ERROR - Application error: 'AIAnalyzer' object has no attribute 'analyze_text'
+2024-11-19 22:39:12,214 - ERROR - Model training error: could not allocate 725876736 bytes
+2024-11-19 22:40:01,452 - ERROR - Model training error: could not convert string to float: ' Home for Christmas'
+2024-11-19 22:41:04,015 - ERROR - Model training error: could not allocate 725876736 bytes
+2024-11-19 22:42:54,911 - ERROR - Error in model training: 'AIAnalyzer' object has no attribute 'data'
+2024-11-19 22:42:54,912 - ERROR - Application error: tuple indices must be integers or slices, not str
+2024-11-19 22:44:14,786 - ERROR - Data cleaning error: Categorical is not ordered for operation min
+you can use .as_ordered() to change the Categorical to an ordered one
+
+2024-11-19 22:44:52,964 - ERROR - Error in model training: 'NoneType' object has no attribute 'columns'
+2024-11-19 22:44:52,965 - ERROR - Application error: tuple indices must be integers or slices, not str
+2024-11-19 22:46:35,906 - ERROR - Error in model training: 'NoneType' object has no attribute 'columns'
+2024-11-19 22:46:35,907 - ERROR - Application error: tuple indices must be integers or slices, not str

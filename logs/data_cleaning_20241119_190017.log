@@ -1,0 +1,129 @@
+2024-11-19 19:00:23,372 - ERROR - Error loading file: no element found: line 5056, column 2
+2024-11-19 19:03:24,225 - ERROR - Error parsing XML file: no element found: line 5056, column 2
+2024-11-19 19:04:48,796 - ERROR - Malformed XML: no element found: line 5056, column 2
+2024-11-19 19:07:13,736 - ERROR - Malformed XML: no element found: line 5056, column 2
+2024-11-19 19:16:31,181 - INFO - Successfully loaded datasets.xml
+2024-11-19 19:18:33,169 - INFO - Successfully loaded 120-KB-XML-File.xml
+2024-11-19 19:18:33,176 - INFO - Data analysis completed
+2024-11-19 19:18:57,247 - INFO - Successfully loaded 120-KB-XML-File.xml
+2024-11-19 19:18:57,251 - INFO - Data analysis completed
+2024-11-19 19:18:57,254 - INFO - Removed 0 duplicate rows
+2024-11-19 19:18:57,254 - INFO - Handled missing values
+2024-11-19 19:20:53,473 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:24:39,430 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:27:42,589 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:27:51,448 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:27:52,872 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:27:56,393 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:27:58,684 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:27:58,688 - ERROR - Error during data cleaning: unhashable type: 'list'
+2024-11-19 19:28:00,329 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:28:16,941 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:28:26,847 - INFO - Successfully loaded 120-KB-XML-File.xml
+2024-11-19 19:28:26,853 - INFO - Data analysis completed
+2024-11-19 19:28:32,910 - INFO - Successfully loaded 120-KB-XML-File.xml
+2024-11-19 19:28:32,913 - INFO - Data analysis completed
+2024-11-19 19:28:35,968 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:31:24,980 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:31:24,995 - INFO - Data analysis completed
+2024-11-19 19:32:57,743 - INFO - Successfully loaded Demo_xml.xml
+2024-11-19 19:32:57,748 - INFO - Data analysis completed
+2024-11-19 19:33:09,668 - INFO - Successfully loaded movies.csv
+2024-11-19 19:33:09,714 - INFO - Data analysis completed
+2024-11-19 19:33:37,398 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:33:37,411 - INFO - Data analysis completed
+2024-11-19 19:33:43,567 - INFO - Successfully loaded 120-KB-XML-File.xml
+2024-11-19 19:33:43,571 - INFO - Data analysis completed
+2024-11-19 19:33:51,305 - INFO - Successfully loaded datasets.xml
+2024-11-19 19:33:51,313 - INFO - Data analysis completed
+2024-11-19 19:34:14,161 - INFO - Successfully loaded datasets.xml
+2024-11-19 19:34:14,168 - INFO - Data analysis completed
+2024-11-19 19:34:16,946 - INFO - Successfully loaded datasets.xml
+2024-11-19 19:34:16,952 - INFO - Data analysis completed
+2024-11-19 19:34:18,389 - INFO - Successfully loaded datasets.xml
+2024-11-19 19:34:18,394 - INFO - Data analysis completed
+2024-11-19 19:34:18,431 - INFO - Handled missing values
+2024-11-19 19:34:21,753 - INFO - Successfully loaded datasets.xml
+2024-11-19 19:34:21,760 - INFO - Data analysis completed
+2024-11-19 19:34:30,623 - INFO - Successfully loaded cleaned_data (2).csv
+2024-11-19 19:34:30,642 - INFO - Data analysis completed
+2024-11-19 19:35:17,603 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:35:17,614 - INFO - Data analysis completed
+2024-11-19 19:35:19,582 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:35:19,591 - INFO - Data analysis completed
+2024-11-19 19:35:19,596 - INFO - Removed 0 duplicate rows
+2024-11-19 19:35:19,599 - INFO - Handled missing values
+2024-11-19 19:36:32,864 - INFO - Successfully loaded movies.csv
+2024-11-19 19:36:32,899 - INFO - Data analysis completed
+2024-11-19 19:41:57,842 - INFO - Successfully loaded movies.csv
+2024-11-19 19:41:57,878 - INFO - Data analysis completed
+2024-11-19 19:46:45,673 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:46:45,685 - INFO - Data analysis completed
+2024-11-19 19:46:48,262 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:46:48,273 - INFO - Data analysis completed
+2024-11-19 19:46:48,278 - INFO - Removed 0 duplicate rows
+2024-11-19 19:46:48,281 - INFO - Handled missing values
+2024-11-19 19:46:52,046 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:46:52,057 - INFO - Data analysis completed
+2024-11-19 19:46:59,073 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:46:59,081 - INFO - Data analysis completed
+2024-11-19 19:46:59,088 - INFO - Removed 0 duplicate rows
+2024-11-19 19:46:59,091 - INFO - Handled missing values
+2024-11-19 19:47:01,673 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:47:01,683 - INFO - Data analysis completed
+2024-11-19 19:47:16,821 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:47:16,830 - INFO - Data analysis completed
+2024-11-19 19:47:47,187 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:47:47,202 - INFO - Data analysis completed
+2024-11-19 19:47:49,528 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:47:49,536 - INFO - Data analysis completed
+2024-11-19 19:47:49,545 - INFO - Removed 0 duplicate rows
+2024-11-19 19:47:49,547 - INFO - Handled missing values
+2024-11-19 19:47:53,077 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:47:53,087 - INFO - Data analysis completed
+2024-11-19 19:48:13,566 - INFO - Successfully loaded iris.json
+2024-11-19 19:48:13,586 - INFO - Data analysis completed
+2024-11-19 19:48:17,740 - INFO - Successfully loaded iris.json
+2024-11-19 19:48:17,748 - INFO - Data analysis completed
+2024-11-19 19:48:17,753 - INFO - Removed 1 duplicate rows
+2024-11-19 19:48:17,753 - INFO - Handled missing values
+2024-11-19 19:48:23,332 - INFO - Successfully loaded iris.json
+2024-11-19 19:48:23,342 - INFO - Data analysis completed
+2024-11-19 19:49:31,795 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 19:49:31,804 - INFO - Data analysis completed
+2024-11-19 19:52:54,023 - INFO - Successfully loaded sample_book.xml
+2024-11-19 19:52:54,051 - INFO - Data analysis completed
+2024-11-19 19:53:07,375 - INFO - Successfully loaded sample_book.xml
+2024-11-19 19:53:07,399 - INFO - Data analysis completed
+2024-11-19 19:53:08,587 - INFO - Successfully loaded sample_book.xml
+2024-11-19 19:53:08,606 - INFO - Data analysis completed
+2024-11-19 19:53:08,640 - INFO - Removed 0 duplicate rows
+2024-11-19 19:53:08,704 - INFO - Handled missing values
+2024-11-19 19:53:12,986 - INFO - Successfully loaded sample_book.xml
+2024-11-19 19:53:13,001 - INFO - Data analysis completed
+2024-11-19 19:53:23,712 - ERROR - Final chunk processing error: not well-formed (invalid token): line 3, column 1013
+2024-11-19 19:53:23,712 - ERROR - XML processing error: No valid records could be processed
+2024-11-19 19:53:23,716 - ERROR - Final chunk processing error: not well-formed (invalid token): line 3, column 1013
+2024-11-19 19:53:23,716 - ERROR - XML processing error: No valid records could be processed
+2024-11-19 19:53:23,720 - ERROR - Final chunk processing error: not well-formed (invalid token): line 3, column 1013
+2024-11-19 19:53:23,721 - ERROR - XML processing error: No valid records could be processed
+2024-11-19 19:53:23,721 - ERROR - XML processing error: No valid records could be processed
+2024-11-19 19:53:23,722 - ERROR - Error loading file: Failed to process XML file
+2024-11-19 19:53:33,908 - ERROR - Final chunk processing error: not well-formed (invalid token): line 3, column 1013
+2024-11-19 19:53:33,908 - ERROR - XML processing error: No valid records could be processed
+2024-11-19 19:53:33,911 - ERROR - Final chunk processing error: not well-formed (invalid token): line 3, column 1013
+2024-11-19 19:53:33,912 - ERROR - XML processing error: No valid records could be processed
+2024-11-19 19:53:33,915 - ERROR - Final chunk processing error: not well-formed (invalid token): line 3, column 1013
+2024-11-19 19:53:33,915 - ERROR - XML processing error: No valid records could be processed
+2024-11-19 19:53:33,915 - ERROR - XML processing error: No valid records could be processed
+2024-11-19 19:53:33,916 - ERROR - Error loading file: Failed to process XML file
+2024-11-19 20:05:53,179 - INFO - Successfully loaded Cola.xlsx
+2024-11-19 20:05:53,214 - INFO - Data analysis completed
+2024-11-19 20:06:00,472 - INFO - Successfully loaded Cola.xlsx
+2024-11-19 20:06:00,481 - INFO - Data analysis completed
+2024-11-19 20:06:01,375 - INFO - Successfully loaded Cola.xlsx
+2024-11-19 20:06:01,384 - INFO - Data analysis completed
+2024-11-19 20:06:01,417 - INFO - Removed 6 duplicate rows
+2024-11-19 20:06:01,446 - INFO - Handled missing values
+2024-11-19 20:06:01,474 - ERROR - Error converting to xlsx: string argument expected, got 'bytes'
+2024-11-19 20:06:01,475 - ERROR - Download error: string argument expected, got 'bytes'

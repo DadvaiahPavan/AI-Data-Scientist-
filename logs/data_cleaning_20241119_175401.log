@@ -1,0 +1,6 @@
+2024-11-19 17:54:09,951 - INFO - Successfully loaded movies.csv
+2024-11-19 17:54:10,003 - INFO - Data analysis completed
+2024-11-19 17:54:35,363 - INFO - Successfully loaded movies.csv
+2024-11-19 17:54:35,389 - INFO - Data analysis completed
+2024-11-19 17:54:35,423 - INFO - Removed 431 duplicate rows
+2024-11-19 17:54:35,445 - INFO - Handled missing values

@@ -1,0 +1,20 @@
+2024-11-19 20:34:11,811 - INFO - Successfully loaded book_4.8.0.xml
+2024-11-19 20:34:11,854 - INFO - Data analysis completed
+2024-11-19 20:34:21,111 - ERROR - Final chunk processing error: not well-formed (invalid token): line 3, column 25
+2024-11-19 20:34:21,112 - ERROR - XML processing error: No valid records could be processed
+2024-11-19 20:34:21,113 - ERROR - Final chunk processing error: not well-formed (invalid token): line 3, column 25
+2024-11-19 20:34:21,113 - ERROR - XML processing error: No valid records could be processed
+2024-11-19 20:34:21,115 - ERROR - Final chunk processing error: not well-formed (invalid token): line 3, column 25
+2024-11-19 20:34:21,115 - ERROR - XML processing error: No valid records could be processed
+2024-11-19 20:34:21,115 - ERROR - XML processing error: No valid records could be processed
+2024-11-19 20:34:21,116 - ERROR - Error loading file: Failed to process XML file
+2024-11-19 20:34:31,848 - INFO - Successfully loaded 120-KB-XML-File.xml
+2024-11-19 20:34:31,851 - INFO - Data analysis completed
+2024-11-19 20:34:34,572 - INFO - Successfully loaded 120-KB-XML-File.xml
+2024-11-19 20:34:34,575 - INFO - Data analysis completed
+2024-11-19 20:34:34,578 - INFO - Removed 0 duplicate rows
+2024-11-19 20:34:34,578 - INFO - Handled missing values
+2024-11-19 20:34:36,487 - INFO - Successfully loaded 120-KB-XML-File.xml
+2024-11-19 20:34:36,488 - INFO - Data analysis completed
+2024-11-19 20:34:47,376 - INFO - Successfully loaded cleaned_data (2).xml
+2024-11-19 20:34:47,378 - INFO - Data analysis completed
